@@ -1,70 +1,8 @@
-<p><span style="font-family:Courier New,Courier,monospace">RESULTAT &nbsp; :</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">TENTATIVES : 74256270 TEMPS : 00:24:15</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">MAX &nbsp; &nbsp; &nbsp; &nbsp;: 64</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">DES_MAX &nbsp; &nbsp;: 22</span>
-</p>
-<p>&nbsp;
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;1) 1 &nbsp; 2)18 &nbsp; 3)35 &nbsp; 4)52 &nbsp; 5)62 &nbsp; 6)56 &nbsp; 7)39 &nbsp; 8)24 &nbsp; 9) 7 &nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">10)13 &nbsp;11)30 &nbsp;12)47 &nbsp;13)64 &nbsp;14)54 &nbsp;15)48 &nbsp;16)31 &nbsp;17)16 &nbsp;18) 6 &nbsp;19)23 &nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">20)40 &nbsp;21)46 &nbsp;22)63 &nbsp;23)53 &nbsp;24)38 &nbsp;25)55 &nbsp;26)45 &nbsp;27)28 &nbsp;28)22 &nbsp;29)32 &nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">30)15 &nbsp;31) 5 &nbsp;32)11 &nbsp;33)21 &nbsp;34) 4 &nbsp;35)10 &nbsp;36)25 &nbsp;37)19 &nbsp;38) 9 &nbsp;39) 3 &nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">40)20 &nbsp;41)37 &nbsp;42)27 &nbsp;43)33 &nbsp;44)50 &nbsp;45)60 &nbsp;46)43 &nbsp;47)58 &nbsp;48)41 &nbsp;49)26 &nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">50)36 &nbsp;51)42 &nbsp;52)57 &nbsp;53)51 &nbsp;54)61 &nbsp;55)44 &nbsp;56)59 &nbsp;57)49 &nbsp;58)34 &nbsp;59)17 &nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">60) 2 &nbsp;61)12 &nbsp;62)29 &nbsp;63)14 &nbsp;64) 8 &nbsp;</span>
-</p>
-<p>&nbsp;
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp;________________________</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;8| 52 47 56 45 54 <span style="background-color:#ffff00">&nbsp;5</span> 22 13 |</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;7| 57 44 53 <span style="background-color:#ffff00">&nbsp;4</span> 23 14 25 <span style="background-color:#ffff00">&nbsp;6</span>&nbsp;|</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;6| 48 51 46 55 26 21 12 15 |</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;5| 43 58 <span style="background-color:#ffff00">&nbsp;3</span> 50 41 24 <span style="background-color:#ffff00">&nbsp;7</span> 20 |</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;4| 36 49 42 27 62 11 16 29 |</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;3| 59 <span style="background-color:#ffff00">&nbsp;2</span> 37 40 33 28 19 <span style="background-color:#ffff00">&nbsp;8</span>&nbsp;|</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;2| 38 35 32 61 10 63 30 17 |</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;1| <span style="background-color:#ffff00">&nbsp;1</span> 60 39 34 31 18 &nbsp;9 64 |</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp;________________________</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp; &nbsp;a &nbsp;b &nbsp;c &nbsp;d &nbsp;e &nbsp;f &nbsp;g &nbsp;h&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">usage :</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">cherche &lt;row-number&gt; &lt;column-number&gt; &lt;start-row&gt; &lt;start-column&gt;</span>
-</p>
-<p>&nbsp;
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">exemples:</span>
-</p>
-<p>&nbsp;
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">board 5 x 5, quick search :&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">cherche 5 5 1 1</span>
-</p>
-<p>&nbsp;
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">board 8 x 8, normal chessboard:</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">cherche 8 8 1 1</span>
-</p>
-<p>Shift + i =&gt; Displays information about the search progress
-</p>
+<p>Chess problem: The knight visit each square on a chess board exactly once<br />RESULTAT :<br />TENTATIVES : 74256270 TEMPS : 00:24:15<br />MAX : 64<br />DES_MAX : 22</p>
+<p>1) 1 2)18 3)35 4)52 5)62 6)56 7)39 8)24 9) 7 <br />10)13 11)30 12)47 13)64 14)54 15)48 16)31 17)16 18) 6 19)23 <br />20)40 21)46 22)63 23)53 24)38 25)55 26)45 27)28 28)22 29)32 <br />30)15 31) 5 32)11 33)21 34) 4 35)10 36)25 37)19 38) 9 39) 3 <br />40)20 41)37 42)27 43)33 44)50 45)60 46)43 47)58 48)41 49)26 <br />50)36 51)42 52)57 53)51 54)61 55)44 56)59 57)49 58)34 59)17 <br />60) 2 61)12 62)29 63)14 64) 8</p>
+<p>a b c d e f g h <br /> ________________________<br /> 8| 52 47 56 45 54 5 22 13 <br /> 7| 57 44 53 4 23 14 25 6 <br /> 6| 48 51 46 55 26 21 12 15 <br /> 5| 43 58 3 50 41 24 7 20 <br /> 4| 36 49 42 27 62 11 16 29 <br /> 3| 59 2 37 40 33 28 19 8 <br /> 2| 38 35 32 61 10 63 30 17 <br /> 1| 1 60 39 34 31 18 9 64</p>
+<p>usage :<br />cherche &lt;row-number&gt; &lt;column-number&gt; &lt;start-row&gt; &lt;start-column&gt;</p>
+<p>exemples:</p>
+<p>board 5 x 5, quick search : <br />cherche 5 5 1 1</p>
+<p>board 8 x 8, normal chessboard:<br />cherche 8 8 1 1</p>
+<p>Shift + i =&gt; Displays information about the search progress</p>
