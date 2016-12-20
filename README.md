@@ -24,27 +24,27 @@
 </p>
 <p>&nbsp;
 </p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp; &nbsp;a &nbsp;b &nbsp;c &nbsp;d &nbsp;e &nbsp;f &nbsp;g &nbsp;h &nbsp;</span>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp;________________________</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;8| 52 47 56 45 54 <span style="background-color:#ffff00">&nbsp;5</span> 22 13 |</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;7| 57 44 53 <span style="background-color:#ffff00">&nbsp;4</span> 23 14 25 <span style="background-color:#ffff00">&nbsp;6</span>&nbsp;|</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;6| 48 51 46 55 26 21 12 15 |</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;5| 43 58 <span style="background-color:#ffff00">&nbsp;3</span> 50 41 24 <span style="background-color:#ffff00">&nbsp;7</span> 20 |</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;4| 36 49 42 27 62 11 16 29 |</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;3| 59 <span style="background-color:#ffff00">&nbsp;2</span> 37 40 33 28 19 <span style="background-color:#ffff00">&nbsp;8</span>&nbsp;|</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;2| 38 35 32 61 10 63 30 17 |</span>
+</p>
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp;1| <span style="background-color:#ffff00">&nbsp;1</span> 60 39 34 31 18 &nbsp;9 64 |</span>
 </p>
 <p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp;________________________</span>
 </p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;8| 52 47 56 45 54 &nbsp;5 22 13&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;7| 57 44 53 &nbsp;4 23 14 25 &nbsp;6&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;6| 48 51 46 55 26 21 12 15&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;5| 43 58 &nbsp;3 50 41 24 &nbsp;7 20&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;4| 36 49 42 27 62 11 16 29&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;3| 59 &nbsp;2 37 40 33 28 19 &nbsp;8&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;2| 38 35 32 61 10 63 30 17&nbsp;</span>
-</p>
-<p><span style="font-family:Courier New,Courier,monospace">&nbsp;1| &nbsp;1 60 39 34 31 18 &nbsp;9 64&nbsp;</span>
-</p>
-<p>&nbsp;
+<p><span style="font-family:Courier New,Courier,monospace">&nbsp; &nbsp; &nbsp;a &nbsp;b &nbsp;c &nbsp;d &nbsp;e &nbsp;f &nbsp;g &nbsp;h&nbsp;</span>
 </p>
 <p><span style="font-family:Courier New,Courier,monospace">usage :</span>
 </p>
@@ -65,4 +65,6 @@
 <p><span style="font-family:Courier New,Courier,monospace">board 8 x 8, normal chessboard:</span>
 </p>
 <p><span style="font-family:Courier New,Courier,monospace">cherche 8 8 1 1</span>
+</p>
+<p>Shift + i =&gt; Displays information about the search progress
 </p>
