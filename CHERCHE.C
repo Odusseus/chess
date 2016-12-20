@@ -1,3 +1,5 @@
+/* Pascal 1-10-1993 */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <dos.h>
